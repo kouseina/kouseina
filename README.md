@@ -1,6 +1,6 @@
 ### Hi there, Here is What I'm Working On! 👋
 
-![Kouseina's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&theme=radical)
+![Kouseina's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&theme=onedark)
 
 Here are some ideas to get you started:
 
