@@ -1,6 +1,6 @@
 ### Hi there, Here is What I'm Working On! 👋
 
-![Kouseina's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&theme=tokyonight)
+![Kouseina's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
 
