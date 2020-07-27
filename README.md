@@ -9,7 +9,7 @@
 - 🔥 I'm a Javascript Developer
 - 🙋 You can call me ... Daffa
 - 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... Javascript [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
+- 👯 I’m looking to collaborate on ... Javascript 
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I like shitposting
 
