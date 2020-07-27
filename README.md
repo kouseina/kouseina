@@ -6,9 +6,10 @@
 
 Here are some ideas to get you started:
 
+- 🔥 I'm a Javascript Developer
 - 🙋 You can call me ... Daffa
 - 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... Flutter
+- 👯 I’m looking to collaborate on ... Javascript
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I like shitposting
 
