@@ -1,6 +1,6 @@
 ### Hi there, Here is What I'm Working On! 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?kouseina=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kouseina)](https://github.com/kouseina/github-readme-stats)
 
 Here are some ideas to get you started:
 
