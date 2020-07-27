@@ -4,12 +4,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
 
-#### Here are some ideas to get you started: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
+#### Here are some ideas to get you started: 
 
 - 🔥 I'm a Javascript Developer
 - 🙋 You can call me ... Daffa
 - 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... Javascript
+- 👯 I’m looking to collaborate on ... Javascript [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I like shitposting
 
