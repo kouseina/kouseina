@@ -1,5 +1,6 @@
 ### Hi there, Here is What I'm Working On! 👋
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?kouseina=anuraghazra&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
