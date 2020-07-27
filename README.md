@@ -1,4 +1,4 @@
-### Hi there, Here is What I'm Working On! 👋
+### Hi there 🙋 My Name is Daffa Putera Kouseina, You can call me Daffa. 🔥 I'm a Javascript Developer. Here is What I'm Working On! 👋 
 
 ![Kouseina's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true)
 
@@ -6,8 +6,6 @@
 
 #### Here are some ideas to get you started: 
 
-- 🔥 I'm a Javascript Developer
-- 🙋 You can call me ... Daffa
 - 🌱 I’m currently learning ... Flutter
 - 👯 I’m looking to collaborate on ... Javascript 
 - 💬 Ask me about ... Anything
