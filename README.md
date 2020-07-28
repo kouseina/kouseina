@@ -7,7 +7,7 @@
 
 #### Here are some ideas to get you started: 
 
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... TypeScript
 - 👯 I’m looking to collaborate on ... Javascript 
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: ... I like shitposting
