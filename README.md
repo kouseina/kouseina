@@ -9,6 +9,9 @@
 <a href="https://web.facebook.com/daffa.putera.14/">
   <img align="left" alt="Daffa's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://t.me/kouseina">
+  <img align="left" alt="Daffa's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 <br />
 <br />
@@ -20,7 +23,7 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Fullstack Web Developer;
-- 🌱 I’m currently learning Typescript,React,and NodeJS; 
+- 🌱 I’m currently learning Typescript,React, NodeJS, and NextJs; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Critical Thinking, etc..;
 - 📫 Please email via kouseinadaffa@gmail.com to reach me.
 
