@@ -27,6 +27,8 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 - 🤔 My interests are with Natural Language Processing/Understanding, Critical Thinking, etc..;
 - 📫 Please email via kouseinadaffa@gmail.com to reach me.
 
+<br />
+<br />
 
 **Languages and Tools:**  
 
