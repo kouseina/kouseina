@@ -29,7 +29,6 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 - ⚡ Fun fact: I like shitposting
 
 <br />
-<br />
 
 **Languages and Tools:**  
 
