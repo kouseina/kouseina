@@ -18,7 +18,7 @@
 
 Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Software Engineering student** 🚀 from Telkom School, currently, I'm a Community Team Member 🙍🏽‍♂️ WhyCode.
 
-  <img align="right" alt="GIF" height="400" src="https://user-images.githubusercontent.com/56005648/88882070-52216a80-d25b-11ea-88d4-dbc2862d642a.gif" />
+  <img align="right" alt="GIF" height="300" src="https://user-images.githubusercontent.com/56005648/88882070-52216a80-d25b-11ea-88d4-dbc2862d642a.gif" />
 
 **Talking about Personal Stuffs:**
 
