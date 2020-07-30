@@ -43,6 +43,8 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
+
 <br />
 
 <code><img height="30" alt="GIF" src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"></code> **How about my Github Stats?**  
