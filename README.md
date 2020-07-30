@@ -43,5 +43,5 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 
 <br />
 **How about my Github Stats?**  
-<br />
+
 ![Daffa's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&hide_border=true&theme=tokyonight)
