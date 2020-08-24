@@ -23,7 +23,7 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Front-end Engineer;
-- 🌱 I’m currently learning Typescript,React, NodeJS, and NextJs; 
+- 🌱 I’m currently learning Flutter; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Critical Thinking, etc..;
 - 📫 Please email via kouseinadaffa@gmail.com to reach me.
 - ⚡ Fun fact: I like shitposting
