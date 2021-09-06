@@ -45,6 +45,5 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
 
 <br />
- **How about my Github Stats?**  
 
 ![Daffa's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&hide_border=true&theme=tokyonight)
