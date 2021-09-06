@@ -18,8 +18,6 @@
 
 Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Software Engineering student** 🚀 from Telkom School, currently, I'm a Community Team Member 🙍🏽‍♂️ WhyCode.
 
-  <img align="right" alt="GIF" height="350" src="https://user-images.githubusercontent.com/56005648/88882070-52216a80-d25b-11ea-88d4-dbc2862d642a.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Front-end Engineer;
@@ -47,7 +45,6 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Javascript Developer** and a **Soft
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouseina&layout=compact)](https://github.com/kouseina/github-readme-stats)
 
 <br />
-
-<code><img height="30" alt="GIF" src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"></code> **How about my Github Stats?**  
+ **How about my Github Stats?**  
 
 ![Daffa's github stats](https://github-readme-stats.vercel.app/api?username=kouseina&show_icons=true&hide_border=true&theme=tokyonight)
