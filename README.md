@@ -20,8 +20,7 @@ Hi there, I'm **Daffa Putera Kouseina**, a **Software Engineer**.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Mobile Engineer;
-- 🤔 My interests are with Natural Language Processing/Understanding, Critical Thinking, etc..;
+- 👨🏽‍💻 I’m currently a Software Engineer;
 - 📫 Please email via kouseinadaffa@gmail.com to reach me.
 
 <br />
