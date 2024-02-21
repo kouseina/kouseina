@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Daffa Putera Kouseina**, a **Mobile Developer**.
+Hi there, I'm **Daffa Putera Kouseina**, a **Software Engineer**.
 
 **Talking about Personal Stuffs:**
 
